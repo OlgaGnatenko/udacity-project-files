@@ -49,8 +49,8 @@ Christmas Island,CX,CXR,162,ISO 3166-2:CX,Oceania,Australia and New Zealand,"",0
 Cocos (Keeling) Islands,CC,CCK,166,ISO 3166-2:CC,Oceania,Australia and New Zealand,"",009,053,""
 Colombia,CO,COL,170,ISO 3166-2:CO,Americas,Latin America and the Caribbean,South America,019,419,005
 Comoros,KM,COM,174,ISO 3166-2:KM,Africa,Sub-Saharan Africa,Eastern Africa,002,202,014
-Congo, Rep.,CG,COG,178,ISO 3166-2:CG,Africa,Sub-Saharan Africa,Middle Africa,002,202,017
-Congo, Dem. Rep.,CD,COD,180,ISO 3166-2:CD,Africa,Sub-Saharan Africa,Middle Africa,002,202,017
+"Congo, Rep.",CG,COG,178,ISO 3166-2:CG,Africa,Sub-Saharan Africa,Middle Africa,002,202,017
+"Congo, Dem. Rep.",CD,COD,180,ISO 3166-2:CD,Africa,Sub-Saharan Africa,Middle Africa,002,202,017
 Cook Islands,CK,COK,184,ISO 3166-2:CK,Oceania,Polynesia,"",009,061,""
 Costa Rica,CR,CRI,188,ISO 3166-2:CR,Americas,Latin America and the Caribbean,Central America,019,419,013
 Cote d'Ivoire,CI,CIV,384,ISO 3166-2:CI,Africa,Sub-Saharan Africa,Western Africa,002,202,011
@@ -143,7 +143,7 @@ Mauritania,MR,MRT,478,ISO 3166-2:MR,Africa,Sub-Saharan Africa,Western Africa,002
 Mauritius,MU,MUS,480,ISO 3166-2:MU,Africa,Sub-Saharan Africa,Eastern Africa,002,202,014
 Mayotte,YT,MYT,175,ISO 3166-2:YT,Africa,Sub-Saharan Africa,Eastern Africa,002,202,014
 Mexico,MX,MEX,484,ISO 3166-2:MX,Americas,Latin America and the Caribbean,Central America,019,419,013
-Micronesia, Fed. Sts.,FM,FSM,583,ISO 3166-2:FM,Oceania,Micronesia,"",009,057,""
+"Micronesia, Fed. Sts.",FM,FSM,583,ISO 3166-2:FM,Oceania,Micronesia,"",009,057,""
 Moldova,MD,MDA,498,ISO 3166-2:MD,Europe,Eastern Europe,"",150,151,""
 Monaco,MC,MCO,492,ISO 3166-2:MC,Europe,Western Europe,"",150,155,""
 Mongolia,MN,MNG,496,ISO 3166-2:MN,Asia,Eastern Asia,"",142,030,""
